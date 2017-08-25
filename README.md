@@ -1,1 +1,1 @@
-# VHDL-Dise-o-digital
+# VHDL-Diseno-digital
